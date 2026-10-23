@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LangChain Prompt Engineering Lab
 
 A beginner-friendly learning project for understanding prompt engineering, messages, prompt templates, placeholders, chat history, and model invocation with LangChain.
@@ -835,4 +835,4 @@ If this repository helps you learn LangChain, consider starring it and sharing s
 =======
 # Langchain-prompt-engineering-lab
 A beginner-friendly LangChain prompt engineering lab covering messages, prompt templates, placeholders, chat history, and model invocation.
->>>>>>> 26d414a9396820833bb2c5bf27c4303637d5dcd9
+
